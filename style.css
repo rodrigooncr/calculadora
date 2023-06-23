@@ -1,7 +1,7 @@
 body{
     
     min-height: 100vh;
-    background-color: #090c31;
+    background-color: #e7e8f7;
     ;
     display:flex;
     justify-content:center;
@@ -10,7 +10,7 @@ body{
 
 
 .calculadora{
-    background-color: rgb(13, 90, 158);
+    background-color: rgb(12, 45, 75);
     color:white;
     
     display:grid;
@@ -28,7 +28,7 @@ body{
     grid-column: 1 /-1;
     padding: 1.5rem;
     font-size: 2rem;
-    background-color: rgb(8, 27, 80);
+    background-color: rgb(70, 95, 163);
     text-align: right;
     border-radius: .5rem;
     margin-bottom: 1rem;
@@ -39,7 +39,7 @@ body{
 
 .btn{
 
-    background-color: rgb(13, 90, 158);
+    background-color: rgb(5, 85, 117);
     color: white;
     border: none;
     padding: 1.5em .5rem ;
@@ -49,7 +49,7 @@ body{
 
 .btn:hover{
 
-    background-color: rgb(8, 27, 80);
+    background-color: rgb(137, 108, 190);
     border-radius: 0.5rem;
     cursor: pointer;
 }
